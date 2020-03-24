@@ -8,7 +8,7 @@ import 'widget/reusable_card.dart';
 // Staff Welfare card list composition
 final List<ReusableCard> staffWelfare = [
   ReusableCard(
-    title: "PPE Technique",
+    title: 'PPE Technique',
     description: '3 guides',
     color: Colors.white,
     routeTo: Routes.ppe,
